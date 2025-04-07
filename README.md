@@ -1,11 +1,11 @@
 https://yueh.vercel.app/ <br>
 網站網址<br><br>
 
-##負責相機文章部分、客服聊天室、 首頁動畫效果<br><br>
+## 負責相機文章部分、客服聊天室、 首頁動畫效果<br><br>
 
 **使用技術  ▏React, Next.js , Node.js , MySQL , Express.js ,  Socket.IO , Bootstrap 5 , Git** <br><br>
 
-###文章系統 <br><br>
+### 文章系統 <br><br>
 
 開發多重篩選功能，支援標籤、作者及關鍵字搜尋<br>
 實作分頁、滾動記憶及麵包屑導航功能<br>
