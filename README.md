@@ -1,7 +1,7 @@
 https://yueh.vercel.app/ <br>
 網站網址<br><br>
 
-## 負責相機文章部分、客服聊天室、 首頁動畫效果<br><br>
+### 負責相機文章部分、客服聊天室、 首頁動畫效果<br><br>
 
 **使用技術  ▏React, Next.js , Node.js , MySQL , Express.js ,  Socket.IO , Bootstrap 5 , Git** <br><br>
 
@@ -13,7 +13,7 @@ https://yueh.vercel.app/ <br>
 整合按讚、收藏及一鍵分享網址功能<br><br>
 
 
-###留言系統 <br><br>
+### 留言系統 <br><br>
 
 設計留言收折機制及登入驗證功能<br>
 開發巢狀留言結構，支援嵌套回覆<br>
@@ -22,14 +22,14 @@ https://yueh.vercel.app/ <br>
 優化留言區UI，加入用戶頭像顯示<br><br>
 
 
-###個人文章管理中心 <br><br>
+### 個人文章管理中心 <br><br>
 
 建置個人文章管理介面，支援文章CRUD操作<br>
 開發文章上傳驗證及個人文章篩選功能<br>
 設計使用者簡略資訊卡片展示<br><br>
 
 
-###客服聊天室<br><br>
+### 客服聊天室<br><br>
 
 使用 Socket.IO 開發即時聊天系統<br>
 實作已讀/未讀狀態顯示<br>
@@ -37,13 +37,13 @@ https://yueh.vercel.app/ <br>
 整合圖片及影片傳送功能<br><br>
 
 
-###RWD響應式設計<br><br>
+### RWD響應式設計<br><br>
 
 確保跨裝置使用體驗<br>
 優化行動版面配置<br>
 調整各功能區塊響應式顯示<br><br>
 
-###使用者帳號<br><br>
+### 使用者帳號<br><br>
 
 使用者帳號:60<br>
 使用者密碼:12345<br><br>
